@@ -181,7 +181,7 @@ class Token
 class Token_stream
 {
 	public:
-		Token_stream();
+		Token_stream() : full(0), buffer(0) {};
 		Token get();
 		void ignore(char c);
 		void putback(Token t);
