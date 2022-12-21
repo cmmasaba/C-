@@ -2,7 +2,7 @@
 Drills and Exercises I did while studying C++ programming following `Programming Principles and Practice Using C++ by Bjarne Stroustrup`
 
 ## Description
-###Objects, Types and Values
+### Objects, Types and Values
 Concepts covered in chapter 3 of the book
 
 ## Technologies
